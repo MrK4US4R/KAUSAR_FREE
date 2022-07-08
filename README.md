@@ -30,8 +30,6 @@
 
  pip install bs4
 
- 
-
  pip install requests
 
 rm -rf KAUSAR_FREE
